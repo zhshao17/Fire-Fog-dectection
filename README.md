@@ -1,6 +1,6 @@
 # Fire-Fog-dectection
 
-The repository contains the course design for Computer Vision in the undergraduate program of Artificial Intelligence at [Huazhong University of Science and Technology](http://english.aia.hust.edu.cn/). It is maintained by Mr. [Zonghe Shao](zhshao17.github.io) and Ms. Xin Yi.
+The repository contains the course design for Computer Vision in the undergraduate program of Artificial Intelligence at [Huazhong University of Science and Technology](http://english.aia.hust.edu.cn/). It is maintained by Mr. [Zonghe Shao](https://zhshao17.github.io/) and Ms. Xin Yi.
 
 In compliance with data copyright regulations, we have included the addresses of publicly accessible datasets in the respective folder.
 
