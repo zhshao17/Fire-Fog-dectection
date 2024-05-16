@@ -1,9 +1,29 @@
 # Fire-Fog-dectection
 
-The repository contains the course design for Computer Vision in the undergraduate program of Artificial Intelligence at [Huazhong University of Science and Technology](http://english.aia.hust.edu.cn/). It is maintained by Mr. [Zonghe Shao](zhshao17.github.io) and Ms. Xin Yi.
+The repository contains the  project for course "Image Processing and Computer Vision" in the undergraduate program of Artificial Intelligence at [Huazhong University of Science and Technology](http://english.aia.hust.edu.cn/). It is maintained by Mr. [Zonghe Shao](zhshao17.github.io) and Ms. Xin Yi.
 
-In compliance with data copyright regulations, we have included the addresses of publicly accessible datasets in the respective folder.
+## Method
+YOLOv8 based on Deformable Attention Transformer (DAT)
 
-Please be aware that this repository is publicly accessible, allowing anyone to utilize its contents. However, we kindly request that you restrict its usage to reference purposes only.
+## Datasets
 
++ [fire Computer Vision Project](https://universe.roboflow.com/custom-thxhn/fire-wrpgm)
++ [Smoke Dataset Computer Vision Project](https://universe.roboflow.com/xml2yolo-a1c9q/smoke-dataset-otsaj)
++ [fire_smoke_datasets](https://github.com/liuzifan/fire_smoke_datasets)
++ [A dataset for fire and smoke object detection](https://github.com/siyuanwu/DFS-FIRE-SMOKE-Dataset)
+
+## Result
++ Fire
+<div  align="center">    
+<img src="./img/fire.png" width="500">
+</div>
+
++ Fog
+<div  align="center">    
+<img src="./img/fog.png" width="500">
+</div>
+
+
+
+## Other
 If you have any inquiries regarding the repository, please feel free to reach out to us at the following email address: [zongheshao17@gmail.com](mailto:zongheshao17@gmail.com).
