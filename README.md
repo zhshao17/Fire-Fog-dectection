@@ -1,6 +1,5 @@
 # Fire-Fog-dectection
 
-<<<<<<< HEAD
 The repository contains the  project for course "Image Processing and Computer Vision" in the undergraduate program of Artificial Intelligence at [Huazhong University of Science and Technology](http://english.aia.hust.edu.cn/). It is maintained by Mr. [Zonghe Shao](zhshao17.github.io) and Ms. Xin Yi.
 
 ## Method
@@ -27,7 +26,4 @@ YOLOv8 based on Deformable Attention Transformer (DAT)
 
 
 ## Other
-If you have any inquiries regarding the repository, please feel free to reach out to us at the following email address: [zongheshao17@gmail.com](mailto:zongheshao17@gmail.com).
-=======
-The repository contains the Project in Computer Vision Course in the undergraduate program of Artificial Intelligence at [Huazhong University of Science and Technology](http://english.aia.hust.edu.cn/). It is maintained by Mr. [Zonghe Shao](https://zhshao17.github.io/) and Ms. Xin Yi.
->>>>>>> 5c3450af09695a070155202b334833a99e7f8519
+If you have any inquiries regarding the repository, please feel free to reach out to us at the following email address: [zongheshao17[at]gmail[dot]com](mailto:zongheshao17@gmail.com).
